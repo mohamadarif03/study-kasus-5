@@ -15,7 +15,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Selamat Datang di Filkommart!");
+        System.out.println("Selamat Datang di Filkom mart!");
+        System.out.println("Selamat berbelanja");
         System.out.print("Jumlah barang yang dibeli? ");
         int jumlahJenisBarang = scanner.nextInt();
         scanner.nextLine();
