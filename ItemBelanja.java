@@ -1,6 +1,4 @@
-package StudyKasus5;
-
-class ItemBelanja {
+ class ItemBelanja {
     private Produk produk;
     private int jumlah;
 

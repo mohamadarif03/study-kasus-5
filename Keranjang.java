@@ -1,6 +1,4 @@
-package StudyKasus5;
-
-class Keranjang {
+ class Keranjang {
     private ItemBelanja[] daftarItem;
     private int indexSekarang;
 

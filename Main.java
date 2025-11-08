@@ -1,4 +1,3 @@
-package StudyKasus5;
 
 import java.util.Scanner;
 

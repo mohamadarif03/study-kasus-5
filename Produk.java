@@ -1,6 +1,4 @@
-package StudyKasus5;
-
-class Produk {
+ class Produk {
     private String nama;
     private int harga;
 
